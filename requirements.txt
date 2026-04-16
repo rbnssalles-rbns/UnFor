@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+geopy
+requests
+openrouteservice
+pydeck
+openpyxl
+
+
